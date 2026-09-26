@@ -1,0 +1,4 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=1.5
+tables>=3.8        # reads the PEMS-BAY .h5 file
